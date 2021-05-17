@@ -1,0 +1,4 @@
+2 // the number of categories
+2 // the number of questions
+1 // the number of daily doubles per category
+1 // the number of players

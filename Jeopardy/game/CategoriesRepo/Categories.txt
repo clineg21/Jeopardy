@@ -1,0 +1,525 @@
+C<<>>Anagrammed Animals
+Q<<>>It likes to neck: FIG FEAR
+T<<>>Giraffe
+F<<>>Sheep 
+F<<>>Snake
+F<<>>Dinosaur
+Q<<>>Look for it on the web: PRIDES
+F<<>>Tiger
+F<<>>Lion
+T<<>>Spider 
+F<<>>Marsupial
+Q<<>>A furry little pet: THE RAMS 
+F<<>>A Dog
+F<<>>A Rat
+F<<>>A Ferret
+T<<>>A Hamster 
+Q<<>>A marsupial: BY A WALL
+T<<>>A Wallaby 
+F<<>>A Kangaroo
+F<<>>A Koala 
+F<<>>A Wombat
+Q<<>>An ermine is one: SEE LAW
+F<<>>A Ferret
+T<<>>A Weasel
+F<<>>A Stoat
+F<<>>A Polecat
+Q<<>>The world's largest rodent: PAY A CRAB
+F<<>>A Rat
+F<<>>A Gopher
+T<<>>A Capybara
+F<<>>A Beaver
+Q<<>>It has its own bowl: HOLD FIGS
+F<<>>Betta fish
+T<<>>Goldfish
+F<<>>Turtle
+F<<>>Armadillo
+Q<<>>A sea creature: SCOOT UP
+F<<>>Sea Turtle
+F<<>>Dolphin
+F<<>>Lobster
+T<<>>Octopus
+Q<<>>An early riser: SORE ROT
+F<<>>Chicken
+F<<>>Hen
+T<<>>Rooster
+F<<>>Crow
+Q<<>>A swinging ape: BIG NOB
+F<<>>A monkey
+T<<>>A Gibbon
+F<<>>A Gorilla
+F<<>>An Ape
+C<<>>3-Letter D Words
+Q<<>>A bear abode
+T<<>>Den
+F<<>>Dun
+F<<>>Due
+F<<>>Dog
+Q<<>>Turn down the lights
+T<<>>Dim
+F<<>>Din
+F<<>>Den
+F<<>>Doe
+Q<<>>A failure like a movie at the box office or a shell that doesn't explode
+F<<>>Dun
+F<<>>Dog
+F<<>>Doe
+T<<>>Dud
+Q<<>>A turned-up noise
+F<<>>Doc
+F<<>>Dim
+T<<>>Din
+F<<>>Den
+Q<<>>A cutting or insulting remark
+F<<>>Doc
+F<<>>Dud
+F<<>>Dog
+T<<>>Dig
+Q<<>>Blocks a River
+F<<>>Dim
+F<<>>Den
+T<<>>Dam
+F<<>>Dog
+Q<<>>An abbreviation for a month
+F<<>>Dim
+F<<>>Doc
+F<<>>Dot
+T<<>>Dec
+Q<<>>Early morning condensation
+T<<>>Dew
+F<<>>Dip
+F<<>>Din
+F<<>>Dry
+Q<<>>Arts and crafts
+F<<>>DRY
+T<<>>DIY
+F<<>>DMV
+F<<>>DND
+Q<<>>Not wet
+F<<>>Din
+F<<>>Diy
+T<<>>Dry
+F<<>>Dew
+Q<<>>A modern dance move
+F<<>>Dum
+F<<>>Dug
+F<<>>Dub
+T<<>>Dab
+C<<>>Classical Books
+Q<<>>1847: Heathcliff is a bad cat
+F<<>>The Picture of Dorian Grey 
+F<<>>Dante’s Inferno 
+T<<>>Wuthering Heights
+F<<>>The Crucible 
+Q<<>>1813: Ms. Bennet confronts 2 specific things
+F<<>>Persuasion 
+T<<>>Pride and Prejudice
+F<<>>Bridgeton
+F<<>>Sense and Sensibility
+Q<<>>1908: The Rat & the Toad should be friends
+F<<>>Frog & Toad
+T<<>>The Wind in the Willows 
+F<<>>Hop on Pop
+F<<>>Oi Frog!
+Q<<>>A Gothic and philosophical novel by Oscar Wilde
+T<<>>The Picture of Dorian Gray 
+F<<>>Where the wild things are 
+F<<>>The Great Gatspy 
+F<<>>One Hundred Years of Solitude  
+Q<<>>The novel presents a future American society where books are outlawed
+F<<>>In Cold Blood
+F<<>>Brave New World 
+T<<>>Fahrenheit 451
+F<<>>Crime & Punishment 
+Q<<>>Shakespeare's shortest tragedy
+T<<>>Macbeth 
+F<<>>As You Like It 
+F<<>>Romeo & Juliet  
+F<<>>Hamlet 
+Q<<>>A novel by Chuck Palahniuk was the basis for this film starring Brad Pitt & Edward Norton.
+F<<>>Of Mice & Men
+F<<>>Blink
+T<<>>Fight Club
+F<<>> Firestarter
+Q<<>>Emma Stone played aspiring writer Skeeter Phelan in this ’60s-set film based on the novel of the same name
+F<<>>Goodfellas
+T<<>>The Help
+F<<>>Schindler’s List
+F<<>> Outlander
+Q<<>>At 15 she wrote a satirical “History of England” by “a partial, prejudiced, & ignorant historian”
+F<<>>Zora Neale Hurston
+F<<>> Barbara
+T<<>>Jane Austen
+F<<>>Agatha Christie
+Q<<>>Which Dickens novel has a case of spontaneous combustion?
+F<<>>Great Exceptions 
+T<<>>Bleak House
+F<<>>A Tale of Two Cities
+F<<>>Little Dorrit
+Q<<>>The children's classic, Anne of Green Gables, was written by what author?
+T<<>>L M Montgomery
+F<<>>Anne Frank
+F<<>>Carol Ryrie Brink
+F<<>>Frances Hodgson Burnett
+C<<>>The 16th Century
+Q<<>>In 1505 a fleet from Portugal was blown to this island off the coast of India & Portuguese troops soon followed
+F<<>>Maldives
+T<<>>Sri Lanka
+F<<>>Zanzibar
+F<<>>Madagascar
+Q<<>>In 1534 he explored the Gulf of St. Lawrence helping lay the basis for French claims to North America
+F<<>>Samuel de Champlain
+F<<>>Jean Ribault
+F<<>>Francis Drake
+T<<>>Jacques Cartier
+Q<<>>Frederick the Wise protected him in Wartburg so he could translate the Bible in defiance of the Edict of Worms
+T<<>>Martin Luther
+F<<>>John Knox
+F<<>>John Calvin
+F<<>>Jacob Arminius
+Q<<>>Though he discovered & named Florida in 1513 he didn't try to colonize it until 1521
+F<<>>Hernando de Soto
+F<<>>Vasco Núñez de Balboa
+F<<>>Christopher Columbus
+T<<>>Ponce De Leon
+Q<<>>She became queen of Scots in 1542 when she was less than a week old
+F<<>>Martha Stuart
+T<<>>Mary Stuart
+F<<>>Margaret Stuart
+F<<>>Matilda Stuart
+Q<<>>He ruled the Spanish empire at the height of its power
+T<<>>Philip II
+F<<>>Ferdinand VI
+F<<>>Henry IV
+F<<>>Alfonso XII
+Q<<>>In 1558 Elizabeth I succeeded this half-sister on the throne of England
+T<<>>Mary I (or Mary Tudor)
+F<<>>Margaret Tudor
+F<<>>Anne Mortimer
+F<<>>Sophia
+Q<<>>In 1501 Michelangelo returned to this city his hometown & began work on David
+T<<>>Florence
+F<<>>Rome
+F<<>>Venice
+F<<>>Ferrara
+Q <<>>This colony was founded in North America in 1587 only to be lost 3 years later
+T<<>>Roanoke
+F<<>>Jamestown		
+F<<>>New Haven
+F<<>>New Netherlands
+Q<<>>In 1534 this explorer claimed the region that's now Quebec for France
+T<<>>Jacques Cartier
+F<<>>Christopher Columbus
+F<<>>Antonio de Abreu
+F<<>>William Adams
+Q<<>>A 1531 writer gave this word a new meaning saying Martin Luther was making this big kind of change to the whole world
+T<<>>A Reformation
+F<<>>A Restoration
+F<<>>A Revival
+F<<>>A Renewing
+C<<>>Info Please
+Q<<>>Number of feet in a mile
+T<<>>5280
+F<<>>2080
+F<<>>1760
+F<<>>7290
+Q<<>>Number of US Presidents named George
+F<<>>4
+F<<>>5
+T<<>>3
+F<<>>2
+Q<<>>In 1879 the heart of this composer was sealed up in a Warsaw church
+F<<>>Bach
+T<<>>Chopin
+F<<>>Mozart
+F<<>>Tchaikovsky
+Q<<>>The king of Morocco mainly lives in Dar al-Makhzen palace in this city
+F<<>>Marrakesh
+T<<>>Rabat
+F<<>>Casablanca
+F<<>>Fes
+Q<<>>The percentage of the world that lives above the equator
+F<<>>80%
+F<<>>75%
+F<<>>60%
+T<<>>90%
+Q<<>>The least common letter in the English alphabet, used only once in every 510 words
+F <<>>Z
+F <<>>U
+T <<>>Q
+F <<>>X
+Q<<>>The 35th President of the United States
+F<<>>Harry Truman
+F<<>>Herbert Hoover
+F<<>>Lyndon Johnson
+T<<>> John Fitzgerald Kennedy (JFK)
+Q<<>>The number of words Scotland has for snow
+T<<>>421
+F<<>>278
+F<<>>17
+F<<>>33
+Q<<>>The number of letters in the longest English word
+F<<>>120
+F<<>>21
+T<<>>183
+F<<>>15
+Q<<>>The number of eggs Octopuses lay at one time
+F<<>>10000
+T<<>>56000
+F<<>>54000
+F<<>>500
+C<<>>World Capital Rivers
+Q<<>>In troubled Venezuela many have scoured the polluted waters of the Quaire River in this capital in search of anything of value
+F<<>>Bogota
+F<<>>Georgetown
+T<<>>Caracas
+F<<>>Quito
+Q<<>>The Chaobai & the Yongding are found in what city
+T<<>>Beijing
+F<<>>Shanghai
+F<<>>Hong Kong
+F<<>>Taipei
+Q<<>>The Vistula flows through what capital city
+F<<>>Berlin
+F<<>>Prague
+F<<>>Minsk
+T<<>>Warsaw
+Q<<>>The Yamuna (in Asia) is found is what city
+F<<>>Lucknow
+T<<>>New Delhi
+F<<>>Delhi
+F<<>>Shimla
+Q<<>>The Congo flows through which two capital cities
+F<<>>Akula/Brazzaville
+F<<>>Kisangani/Kinshasa
+T<<>>Kinshasa/Brazzaville
+F<<>>Akula/Kinshasa
+Q<<>>The Tigris River flows through this capital
+T<<>>Baghdad
+F<<>>Mosul
+F<<>>Erzurum
+F<<>>Yerevan
+Q<<>>Of the 4 capitals that stand on the Danube 3 start with a B: Bratislava Budapest & this one further south
+T<<>>Belgrade
+F<<>>Bacau
+F<<>>Bedzin
+F<<>>Baku
+Q<<>>A tributary of the Rhine the Aare River wraps around this city on three sides in a canton of the same name
+T<<>>Bern
+F<<>>Bonn
+F<<>>Cologne
+F<<>>Siegen
+Q<<>>This capital of Laos lies on the Mekong
+T<<>>Vientiane
+F<<>>Manila
+F<<>>Kathmandu
+F<<>>Hanoi
+Q<<>>The Amstel lies in this European city
+T<<>>Amsterdam
+F<<>>Belgrade
+F<<>>Berlin
+F<<>>Lisbon
+C<<>>Art
+Q<<>>Girl with a Pearl Earring is an oil painting by which Dutch Golden Age painter?
+T<<>>Vermeer
+F<<>>Steen
+F<<>>Hooch
+F<<>>Dou
+Q<<>>The painting La Gioconda is better known by what name?
+T<<>>Mona Lisa
+F<<>>The Ecstasy of St.Teresa
+F<<>>The Kiss
+F<<>>Girl with a Pearl Earring 
+Q<<>>What Italian sculptor credited with creating the Baroque style of sculpture?
+F<<>>Caravaggio
+F<<>>Rembrandt
+T<<>>Bernini 
+F<<>>Vermeer
+Q<<>>Leonardo Davinci’s 15th century mural, The Last Supper, is located in what city? 
+F<<>>Berlin, Germany 
+F<<>>Rome, Italy
+F<<>>Vienna, Austria
+T<<>>Milan, Italy 
+Q<<>>What comic strip’s final panel depicts a boy and a tiger sledding away?
+F<<>>Winnie the Pooh
+T<<>>Calvin and Hobbes
+F<<>>Grim
+F<<>>The Hardy Boys
+Q<<>>What is the most visited museum in Europe?
+F<<>>The British Museum
+F<<>>Amsterdam
+T<<>>Louvre, Paris, France 
+F<<>>Vatican Museums
+Q<<>>Jackson Pollock was an influential abstract expressionist painter from what country?
+F<<>>Germany
+F<<>>England 
+F<<>>Scotland 
+T<<>>United States
+Q<<>>The Van Gogh museum is located in what European capital city?
+F<<>>Louvre
+F<<>>Museo
+T<<>>Amsterdam
+F<<>>The British Museum
+Q<<>>The Starry Night is an oil on canvas painted by which post impressionist painter?
+F<<>>Berthe Morisot
+F<<>>Juan Luna
+T<<>>Vincent van Gogh
+F<<>>Trove Jansson
+Q<<>>Which painter started the impressionist movement?
+F<<>>Edgar Degas
+F<<>>Mary Cassatt
+F<<>>Paul Cezanne
+T<<>>Claude Monet 
+C<<>>Food
+Q<<>>Snickers is a brand name chocolate bar made by which American company?
+F<<>>Three Musketeers
+F<<>>Hershey
+F<<>>Kit Kat
+T<<>>Mars
+Q<<>>The Hershey Company was founded in which U.S. state?
+F<<>>Georgia 
+T<<>>Pennsylvania
+F<<>>New York
+F<<>>North Carolina 
+Q<<>>When used in the kitchen, sodium bicarbonate is more commonly known as what?
+T<<>>Baking Soda
+F<<>>Baking Powder
+F<<>>Salt
+F<<>>Red Pepper
+Q<<>>What type of pasta is commonly known as bow-tie pasta?
+F<<>>Ravioli 
+F<<>>Penne 
+F<<>>Cappelletti
+T<<>>Farfalle
+Q<<>>The mojito is a traditional run cocktail from which country?
+F<<>>Jamaica 
+F<<>>Dominican Republic
+T<<>>Cuba
+F<<>>Guyana
+Q<<>>A deficiency of what vitamin may lead to dry eyes and night blindness?
+F<<>>Vitamin B
+F<<>>Vitamin D
+T<<>>Vitamin A
+F<<>>Vitamin E
+Q<<>>Which South American country is the world’s largest producer of Coffee?
+F<<>>Guam 
+F<<>>Columbia 
+T<<>>Brazil
+F<<>>Peru
+Q<<>>What U.S nonprofit organization sells about 200 million boxes of cookies per year?
+T<<>>The Girl Scouts 
+F<<>>Salvation Army
+F<<>>Toms
+F<<>>The Boy Scouts
+Q<<>>What fruit is thrown at the annual food fight festival held in Bunol, Spain?
+F<<>>Pear
+T<<>>Tomato 
+F<<>>Grapes
+F<<>>Kiwi 
+Q<<>>In cooking, margine is used as a substitute for what ingredient? 
+F<<>>Sugar
+F<<>>Vegetable Shortening 
+T<<>>Butter
+F<<>>Cinnamon 
+C<<>>Harry Potter  
+Q<<>>What is the seventh and final novel of the Harry Potter series 
+F<<>>Half Blood Prince 
+F<<>>Order of the Phoenix 
+T<<>>The Deathly Hallows
+F<<>>Chamber of Secrets 
+Q<<>>What is the name of Harry’s pet owl?
+T<<>>Hedwig
+F<<>>Scraps
+F<<>>Errol
+F<<>>Pigwidgeon
+Q<<>>In what year was the first Harry Potter movie released?
+F<<>>2010
+F<<>>2011
+T<<>>2001
+F<<>>2005
+Q<<>>What school does Harry Potter attend?
+T<<>>Hogwarts 
+F<<>>Beauxbatons
+F<<>>Durmstrang
+F<<>>Ilvermorny
+Q<<>>How many staircases does Hogwarts have?
+F<<>>152
+F<<>>163
+F<<>>143
+T<<>>142
+Q<<>>What is the name of the room Harry uses to teach Dumbledore’s Army?
+F<<>>The Girl’s Bathroom
+F<<>>The Restricted Section
+T<<>>The Room of Requirements
+F<<>>The Prefect’s Bathroom
+Q<<>>Where is the Slytherin common room located?
+F<<>>Below the Great Hall
+T<<>>The Dungeons
+F<<>>In the West Tower
+F<<>>Next to the Kitchens
+Q<<>>Which creature pull the carriages that take the students to the castle?
+T<<>>Thestrals
+F<<>>Centaurs
+F<<>>Hippogriffs
+F<<>>Manticores
+Q<<>>Which Hogwarts professor was rumored to be a dueling champion
+F<<>>Severus Snape
+F<<>>Minerva Mcgonagall 
+T<<>>Filius Flitwick
+F<<>>Horace Slughorn
+Q<<>>Who is the Hufflepuff house ghost?
+F<<>>The Grey Lady
+F<<>>Cuthbert Binns
+T<<>>The Fat Friar
+F<<>>Nearly Headless Nick
+C<<>>Planets 
+Q<<>>This planet was named after the fleet-footed roman messenger God? 
+F<<>>Venus 
+F<<>>Mars
+F<<>>Neptune 
+T<<>>Mercury
+Q<<>>How many planets in our solar system are not named after a God or Goddess?
+T<<>>One
+F<<>>Two
+F<<>>Five
+F<<>>Three
+Q<<>>Which planet’s moons are nearly named after Shakespeare characters? 
+F<<>>Saturn 
+F<<>>Mars
+F<<>>Jupiter 
+T<<>>Uranus
+Q<<>>Ganymede, the largest moon in our solar system, belongs to which planet?
+F<<>>Mars
+F<<>>Neptune
+T<<>>Jupiter
+F<<>>Pluto
+Q<<>>Titan, Enceladus, Mimas & Iapetus are just some of the moons orbiting which planet? 
+F<<>>Mercury
+F<<>>Venus 
+T<<>>Saturn
+F<<>>Earth 
+Q<<>>How many planets in our solar system have moons?
+F<<>>Eight 
+T<<>>Six
+F<<>>Seven 
+F<<>>Five
+Q<<>>Which planet in our solar system has the most gravity?
+T<<>>Jupiter
+F<<>>Earth
+F<<>>Mars
+F<<>>Neptune
+Q<<>>Of the four rocky planets in our solar system, which is the largest and most dense?
+T<<>>Earth
+F<<>>Mercury
+F<<>>Venus
+F<<>>Mars
+Q<<>>What planet in our solar system has the longest day? 
+F<<>>Earth
+F<<>>Saturn
+T<<>>Venus
+F<<>>Neptune 
+Q<<>>Which planet in our solar system has the most oxygen?
+F<<>>Mars
+F<<>>Uranus
+F<<>>Venus
+T<<>>Earth
